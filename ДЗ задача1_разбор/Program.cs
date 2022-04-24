@@ -8,7 +8,7 @@
 //    System.Console.WriteLine(number[1]);
 
 int num = 4258;
-// num = Math.Abs(num);  // модуль числа
+num = Math.Abs(num);  // модуль числа
 if(num <= 9)
 {
     System.Console.WriteLine("Нет второй цифры");
